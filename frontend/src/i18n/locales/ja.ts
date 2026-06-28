@@ -2720,6 +2720,7 @@ export default {
   hmsErrors: {
     title: 'エラー - {{name}}',
     noErrors: 'エラーなし',
+    unknownCode: '認識できない HMS コードです — 詳細は Bambu Lab Wiki をご確認ください。',
     viewOnWiki: 'Bambu Lab Wikiで表示',
     clearInstructions: 'プリンターでエラーをクリアするとここからも消えます。',
     clearErrors: 'エラーをクリア',

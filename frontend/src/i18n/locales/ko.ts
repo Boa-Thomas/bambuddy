@@ -2570,6 +2570,7 @@ export default {
   hmsErrors: {
     title: '오류 - {{name}}',
     noErrors: '오류 없음',
+    unknownCode: '알 수 없는 HMS 코드입니다 — 자세한 내용은 Bambu Lab Wiki를 확인하세요.',
     viewOnWiki: 'Bambu Lab 위키에서 보기',
     clearInstructions: '오류를 해제하려면 프린터에서 오류를 지우세요.',
     clearErrors: '오류 지우기',

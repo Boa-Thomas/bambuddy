@@ -2708,6 +2708,7 @@ export default {
   hmsErrors: {
     title: 'Erros - {{name}}',
     noErrors: 'Nenhum erro',
+    unknownCode: 'Código HMS não reconhecido — consulte o Bambu Lab Wiki para mais detalhes.',
     viewOnWiki: 'Ver no Bambu Lab Wiki',
     clearInstructions: 'Limpe os erros na impressora para descartá-los aqui.',
     clearErrors: 'Limpar Erros',

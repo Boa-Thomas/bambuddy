@@ -2708,6 +2708,7 @@ export default {
   hmsErrors: {
     title: '錯誤 - {{name}}',
     noErrors: '無錯誤',
+    unknownCode: '無法識別的 HMS 代碼 — 請查看 Bambu Lab Wiki 了解詳情。',
     viewOnWiki: '在拓竹 Wiki 上檢視',
     clearInstructions: '在印表機上清除錯誤以在此處消除它們。',
     clearErrors: '清除錯誤',
